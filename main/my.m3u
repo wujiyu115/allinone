@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", Maybe
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/35/e1c8ac855f5dc0f1fd292234d8b706_180_135.jpg" group-title="DOTA2", Maybe
 http://192.168.31.139:35455/huya/24866799?line=first
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", 烈烈风中
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7c/1bad570ccab5732e7962853248aa59_180_135.jpg" group-title="DOTA2", 烈烈风中
 http://192.168.31.139:35455/huya/123888?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", AME
 http://192.168.31.139:35455/bilibili/25836285?line=first
@@ -27,7 +27,7 @@ http://192.168.31.139:35455/douyu/6916090
 http://192.168.31.139:35455/douyu/2421040
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO",玩机器丶Machine
 http://192.168.31.139:35455/douyu/6979222
-#EXTINF:-1 group-title="魔兽争霸",infi
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/b09f848faac231214e8b333c4a3f01d6_middle.jpg" group-title="魔兽争霸",infi
 http://192.168.31.139:35455/douyu/255865
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/024e3400d0d64fe486fb13d6fb4e8a6c_middle.jpg" group-title="舞蹈",Nice丶奶思丶
 http://192.168.31.139:35455/douyu/10071735
@@ -39,3 +39,9 @@ http://192.168.31.139:35455/douyu/664668
 http://192.168.31.139:35455/douyu/920891
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/902a4a788e7540ec9b8eb8f49a0fc25f_middle.jpg" group-title="二次元",喵小八i
 http://192.168.31.139:35455/douyu/6677800
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/3f6135fb946b43acb4d904e0179ea1ee_middle.jpg" group-title="舞蹈",vivi小小酥
+http://192.168.31.139:35455/douyu/16616
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/208bafd662f54e63a41cb079681fa1ea_middle.jpg" group-title="舞蹈",朴雨彬
+http://192.168.31.139:35455/douyu/7930707
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/724e69ccbd0847d9bd8379329d7f565d_middle.jpg" group-title="DOTA2",nomi酱
+http://192.168.31.139:35455/douyu/3834441
