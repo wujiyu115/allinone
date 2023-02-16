@@ -45,3 +45,5 @@ http://192.168.31.139:35455/douyu/16616
 http://192.168.31.139:35455/douyu/7930707
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/724e69ccbd0847d9bd8379329d7f565d_middle.jpg" group-title="DOTA2",nomi酱
 http://192.168.31.139:35455/douyu/3834441
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/724e69ccbd0847d9bd8379329d7f565d_middle.jpg" group-title="DOTA2",抖音测试
+http://192.168.31.139:35455/douyin/425532592733
